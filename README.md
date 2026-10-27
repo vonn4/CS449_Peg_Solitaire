@@ -11,4 +11,4 @@ Peg Solitaire desktop application developed in Python with PySide6 for UMKC CS 4
 
 - [Implementation, testing, and verification document (Google Docs)](https://docs.google.com/document/d/18869oToBNmMGJ4UX1sziUcvazZLB5wOkpidrJdy6A8c/edit?usp=drivesdk)
 - Gameplay engine and PySide6 interface; 19 passing automated tests including two AI-generated tests.
-- Narrated demonstration video: pending publication.
+- [Narrated Sprint 2 demonstration video (YouTube)](https://youtu.be/kdn6kFun3tw).
