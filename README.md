@@ -20,7 +20,7 @@ Peg Solitaire desktop application developed in Python with PySide6 for UMKC CS 4
 - Manual and automated gameplay on English, Hexagon, and Diamond boards; supported board sizes, game-over detection, and manual randomization.
 - Game recording to JSON, recording validation, and replay through the PySide6 interface.
 - 32 passing automated tests, including Sprint 2 regression coverage and Sprint 3 session/recording tests.
-- **Narrated Sprint 3 demonstration video (YouTube):** link pending upload.
+- [Narrated Sprint 3 demonstration video (YouTube)](https://youtu.be/laay4tXuhQM).
 
 ## Run Sprint 3
 
